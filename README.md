@@ -1,3 +1,5 @@
+[Live Preview](https://react-weather-37f46.web.app/)
+
 
 ## :cloud: Installation
 
